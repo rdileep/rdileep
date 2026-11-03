@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdileep
-- 👀 I’m interested in coding, R&D
-- 🌱 I’m currently learning new tech
+- 👀 I’m interested in coding, R&D, AI, LLM, Claude, Codex
+- 🌱 I’m currently exploring AI Agents and Workflows
 - 💞️ I’m looking to collaborate on AI Tools, Asp.net Core and Blazor related projects
 - 📫 How to reach me dilkumar.srk@gmail.com / reachme@dileepkumar.co.in
 
